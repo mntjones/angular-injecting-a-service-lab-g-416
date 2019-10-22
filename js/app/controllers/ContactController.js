@@ -3,7 +3,7 @@ function ContactController($scope, $timeout) {
 	
 	$timeout(function () {
     // this would be fired after 2 seconds!
-  }, 2000);
+  }, 5000);
 
 }
 
